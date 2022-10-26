@@ -9,8 +9,6 @@ import (
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 
-//test
-
 // PostgresStore represents the session store.
 type PostgresStore struct {
 	pool        *pgxpool.Pool

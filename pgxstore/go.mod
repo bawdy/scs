@@ -1,4 +1,4 @@
-module github.com/bawdy/scs/pgxstore
+module github.com/alexedwards/scs/pgxstore
 
 go 1.19
 
